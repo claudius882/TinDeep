@@ -35,6 +35,10 @@ h2{
   font-size: 3rem;
   line-height: 1.5;
 }
+p{
+  color: #8f8f8f;
+  font-size: 1rem;
+}
 #title {
   background-color: #ff4c68;
   color: white;
@@ -85,11 +89,6 @@ h2{
       font-family: 'Montserrat-bold', sans-serif;
       font-size: 1.5rem;
     }
-
-    .features-description {
-      color: #8f8f8f;
-      font-size: 1rem;
-    }
   }
 }
 // testimonial section
@@ -121,10 +120,7 @@ h2{
     padding: 3% 2%;
     .card{
       .card-body{
-        p{
-          color: #8f8f8f;
-          font-size: 1rem;
-        }
+
       }
     }
   }
@@ -151,9 +147,5 @@ h2{
   .social-icon{
     margin: 0 1% 2%;
   }
-  p{
-    color: #8f8f8f;
-    font-size: 0.8rem;
-  }
-
+  
 }

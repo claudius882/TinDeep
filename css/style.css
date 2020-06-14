@@ -36,6 +36,11 @@ h2 {
   line-height: 1.5;
 }
 
+p {
+  color: #8f8f8f;
+  font-size: 1rem;
+}
+
 #title {
   background-color: #ff4c68;
   color: white;
@@ -92,11 +97,6 @@ h2 {
   font-size: 1.5rem;
 }
 
-#features .features-box .features-description {
-  color: #8f8f8f;
-  font-size: 1rem;
-}
-
 #testimonials {
   padding: 7% 0;
   background-color: #ef8172;
@@ -124,11 +124,6 @@ h2 {
   padding: 3% 2%;
 }
 
-#pricing .pricing-box .card .card-body p {
-  color: #8f8f8f;
-  font-size: 1rem;
-}
-
 #cta {
   padding: 7% 0;
   background-color: #ff4c68;
@@ -152,11 +147,6 @@ h2 {
 
 #footer .social-icon {
   margin: 0 1% 2%;
-}
-
-#footer p {
-  color: #8f8f8f;
-  font-size: 0.8rem;
 }
 
 /*# sourceMappingURL=style.css.map */
